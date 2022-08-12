@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-starter-contentful-homepage",
+  "name": "nevatronic-starter-contentful-homepage",
   "version": "1.0.0",
   "scripts": {
     "start": "gatsby develop",
